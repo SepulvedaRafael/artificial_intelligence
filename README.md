@@ -28,7 +28,8 @@ O progresso de estudo deste repositório é relacionado a estrutura de aulas dis
   - [ ] ??? 3.3
   - [ ] ??? 3.4
 
->[!important]  Aproveite o conhecimento, passe por todas as trilhas calmamente e ao final, obtenha uma certificação totalmente gratuita.
+> [!IMPORTANT]
+> Aproveite o conhecimento, passe por todas as trilhas calmamente e ao final, obtenha uma certificação totalmente gratuita.
 
 ## 💻 Pré-requisitos
 Para adiantar uma etapa, antes de iniciar o curso, verifique se você possui todos os requisitos:
@@ -38,7 +39,8 @@ Para adiantar uma etapa, antes de iniciar o curso, verifique se você possui tod
 - Certifique-se de possuir uma `API KEY` de alguma plataforma de IA, como Gemini e/ou OpenAI.
 - Certifique-se de possuir todas as dependências que coincidirem com a sua opção de estudo. Caso contrário, verifique a seção `🚀 Instalando as dependências`.
 
->[!important] Não é necessário adicionar a API KEY nas suas variáveis de ambiente, basta utilizar o dotenv.
+> [!IMPORTANT]
+> Não é necessário adicionar a API KEY nas suas variáveis de ambiente, basta utilizar o dotenv.
 
 ## 🚀 Instalando as dependências
 Para instalar as dependências do curso, basta abrir o terminal e copiar as seguintes linhas de código:
@@ -68,7 +70,8 @@ pip install -qU "langchain[google-genai]"
 pip install langgraph
 ```
 
->[!important] Execute cada linha individualmente e certifique que a instalação foi realizada com sucesso.
+> [!IMPORTANT]
+> Execute cada linha individualmente e certifique que a instalação foi realizada com sucesso.
 
 ## 📝 References
 **PYTHON SOFTWARE FOUNDATION**. Disponível em: https://www.python.org/. Acesso em: 1 set. 2025.
