@@ -9,7 +9,7 @@ Esse repositório é destinado ao estudo de inteligência artificial com Python 
 Além disso, ressalta-se que o conhecimento adquirido é fruto da dedicação e disponibilização do curso **[Introdução a LLMs](https://ticemtrilhas.org.br/trail/4dc77e6f-a048-4bea-9d5e-de4890d31b9b)** da plataforma
 **[TIC em Trilhas](https://ticemtrilhas.org.br/#anchor-about)**. Meus agradecimentos ao _[Alberto Sardinha](https://www.inf.puc-rio.br/blog/professor/alberto-sardinha/)_ e _[Felipe P. Kestelman](https://www.linkedin.com/in/felipe-procaci-kestelman/)_.
 
-### 🧠 Progresso de Estudo
+## 🧠 Progresso de Estudo
 O progresso de estudo deste repositório é relacionado a estrutura de aulas disponibilizada pelo curso, sendo três módulos composto cada por quatro aulas em versão escrita com atividade avaliativa e práticas da seguinte maneira:
 
 - [x] Módulo 1 | Modelos de linguagem - fundamentos e funcionamento
